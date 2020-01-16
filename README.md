@@ -9,7 +9,7 @@ I am far from being a Kotlin developer and I am still learning myself
 
 ### Table of content
 * [Chapter 2](src/chapter2)
-  * [PhraseOMatik](src/chapter2/PhraseOMatik.kt)
+  * [PhraseOMatic](src/chapter2/PhraseOMatic.kt)
   * [BE the Compiler A](src/chapter2/BE%20the%20Compiler%20A.kt)
   * [BE the Compiler B](src/chapter2/BE%20the%20Compiler%20B.kt)
   * [Solutions](src/chapter2/solutions) (modified)
