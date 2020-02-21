@@ -8,7 +8,6 @@ fun main() {
     val gameChoice = getGameChoice(options)
     val userChoice = getUserChoice(options)
     printResult(gameChoice, userChoice)
-    again()
 }
 
 fun getGameChoice(optionsParam: Array<String>) =
@@ -43,11 +42,4 @@ fun printResult(gameChoice: String, userChoice: String) {
         result = "You lose!"
 
     println("You chose $userChoice. I chose $gameChoice. $result")
-}
-
-fun again() {
-    println("Again? (y/n)")
-    val answer = readLine()
-    if (answer == "Y" || answer == "y")
-        main()
 }
