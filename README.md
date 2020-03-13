@@ -30,3 +30,5 @@ I am far from being a Kotlin developer and I am still learning myself
       * [PoolPuzzle](main/kotlin/chapter4/solutions/PoolPuzzle.kt)
       * [BE the Compiler A](src/main/kotlin/chapter4/solutions/BE%20the%20Compiler%20A.kt)
       * [BE the Compiler B](src/main/kotlin/chapter4/solutions/BE%20the%20Compiler%20B.kt)
+* [Chapter 5](src/main/kotlin/chapter5)
+  
