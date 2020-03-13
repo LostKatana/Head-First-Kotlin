@@ -6,7 +6,7 @@ import kotlin.random.Random
 /**
  * This is a modified version of the Game class adding <br/>
  *  - retry option <br/>
- *  - choises
+ *  - choices
  */
 fun main(args: Array<String>) {
     GameModified().also {
